@@ -14,7 +14,7 @@
  - Placed `authorize.php` into `./app/public/` folder
  - Access for at <http://127.0.0.1:8484/jotform/>
  - Setup Keap integration in Jotform
- - Will push contact info to <https://aq343.infusionsoft.com/Dashboard/userDashboard.jsp>
+ - Submissions will push contact info to <https://aq343.infusionsoft.com/Dashboard/userDashboard.jsp>
  - Result:
 ![alt text](./app/public/assets/JotDocker-submission.png "Title")
 
