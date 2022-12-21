@@ -1,0 +1,2 @@
+<?php
+//{"aq343":"O:18:\"Infusionsoft\\Token\":4:{s:11:\"accessToken\";s:28:\"QdjyiqhcKneYKteS2iEe4VfrGr3Z\";s:12:\"refreshToken\";s:32:\"jeEadhlVAMsJefeLm4L19XJNpGY7CmNq\";s:9:\"endOfLife\";i:1671678975;s:9:\"extraInfo\";a:2:{s:5:\"scope\";s:27:\"full|aq343.infusionsoft.com\";s:10:\"token_type\";s:6:\"bearer\";}}"}

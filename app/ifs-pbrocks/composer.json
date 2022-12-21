@@ -1,0 +1,13 @@
+{
+  "require": {
+    "monolog/monolog": "^2.2",
+    "infusionsoft/php-sdk": "^1.5",
+    "php-curl-class/php-curl-class": "^8.9"
+  },
+  "autoload": {
+    "classmap": [
+      "classes/Token.php",
+      "classes/TokenStorage.php"
+    ]
+  }
+}

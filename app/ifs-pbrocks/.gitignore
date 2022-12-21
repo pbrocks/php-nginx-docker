@@ -1,0 +1,7 @@
+vendor/*
+.idea/
+logs/*.txt
+config.php
+token.php
+test.php
+.DS_Store
